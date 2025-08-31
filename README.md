@@ -1,5 +1,3 @@
-# About-Me
-
 # 👋 Hi, I'm Asmit Bhattacharyya.
 
 💻 *Full Stack Developer* · 🤖 *AI/ML Enthusiast* · 🇮🇳 *From India*  
