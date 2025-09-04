@@ -37,8 +37,7 @@
 ## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asmit-123&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit-123&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Asmit-123&theme=radical&hide_border=true) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit-123&layout=compact&theme=radical)   
 
 ---
 ## 🌐 Connect With Me  
